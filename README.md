@@ -14,3 +14,7 @@ SO THAT my account balance is accurate when I am traveling
 ## Business Context
 
 Gives users a fast and east way to track their spending, and allows user to access that information any time, on or offline.
+
+## Use
+
+Download source code or clone repository to local storage, and install required node package modules using 'npm install.' Run application in the command line using the command 'node server.js'
